@@ -1,6 +1,6 @@
 # SecXchange-Java
 SecXchange project developped in Java language, previously performed in C++.
-
+Developped with IntelliJ IDEA.
 
 
 ### Description
