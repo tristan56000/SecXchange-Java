@@ -18,7 +18,7 @@ Java allows a better exploitation of the different cryptographic protocols (alre
 
 ### How to run it ?
 
-First of all, make sure your "PATH" environnement variable is set with the path of your java's jdk (by preference jdk 13).
+First, make sure your "PATH" environnement variable is set with the path of your java's jdk (by preference jdk 13).
 
 In the folder "out/artifacts" you will find two folders ("Client" and "Server") corresponding of two executables, depending on how you want to run the project.
 
